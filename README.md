@@ -1,0 +1,2 @@
+# Guardian
+This one's really dumb, the context gathering when making reports got made far more complex in an attempt to fix [Gaslight](https://github.com/nodusclient/gaslight). The last seen system tries to gather context based on what your client says its seen, so if you just pretend you've blocked the entire server, players can still report you, but they won't include any context.
